@@ -2,29 +2,50 @@
 
 .main {
    gap: 1em;
+   
 }
 
 .ytv {
-    
+   display: flex;
+   flex-wrap: wrap;
+   gap: 2em;
+   align-items: center;
+   
+   
+   
 }
 .ytv__bottom {
-    
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   gap: 1em;
 }
 .ytv__left {
-    
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   gap: 2em;
+
 }
 .ytv__right {
-    
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   gap: .5em;
 }
 .profile {
-    
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 1em;
+
 }
 .profile__text {
-    
+
 }
 .icon {
 
 }
 .btn--flex {
-    
+
 }
