@@ -2,7 +2,7 @@
 
 .main {
    gap: 1em;
-   
+   flex-grow: 1;
 }
 
 .ytv {
